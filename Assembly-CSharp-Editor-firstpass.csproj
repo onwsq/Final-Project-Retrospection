@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9335b96f-9e42-3ceb-d1b7-138f54919cf7}</ProjectGuid>
+    <ProjectGuid>{a597320f-bc06-e131-19df-01fe14faaef8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -236,22 +236,22 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -608,49 +608,49 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 877, y: 471}
-  m_MaxSize: {x: 16002, y: 14021}
+  m_MinSize: {x: 881, y: 342}
+  m_MaxSize: {x: 16006, y: 8042}
   vertical: 0
-  controlID: 14024
+  controlID: 2198
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,12 +135,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1059
+    width: 1096
     height: 731
-  m_MinSize: {x: 602, y: 471}
-  m_MaxSize: {x: 12002, y: 14021}
+  m_MinSize: {x: 605, y: 342}
+  m_MaxSize: {x: 12005, y: 8042}
   vertical: 1
-  controlID: 14025
+  controlID: 2297
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,12 +161,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1059
+    width: 1096
     height: 455
-  m_MinSize: {x: 602, y: 221}
-  m_MaxSize: {x: 12002, y: 4021}
+  m_MinSize: {x: 605, y: 221}
+  m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 14026
+  controlID: 2298
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -184,7 +184,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 315
+    width: 201
     height: 455
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -208,9 +208,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 315
+    x: 201
     y: 0
-    width: 542
+    width: 693
     height: 455
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 857
+    x: 894
     y: 0
     width: 202
     height: 455
@@ -257,23 +257,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
     y: 455
-    width: 1059
+    width: 1096
     height: 276
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 18}
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,9 +289,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1059
+    x: 1096
     y: 0
-    width: 477
+    width: 440
     height: 731
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -302,7 +302,7 @@ MonoBehaviour:
   - {fileID: 22}
   - {fileID: 23}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 2
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -324,7 +324,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 856.8
+    x: 894.4
     y: 73.6
     width: 200
     height: 434
@@ -418,15 +418,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73.6
-    width: 314
+    width: 200
     height: 434
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 28380000
-      m_LastClickedID: 14376
-      m_ExpandedIDs: c2faffff36fbffff1a380000
+      m_SelectedIDs: 74f2ffff
+      m_LastClickedID: -3468
+      m_ExpandedIDs: 1af3ffff66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -471,9 +471,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 315.2
+    x: 200.8
     y: 73.6
-    width: 540
+    width: 691
     height: 434
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -486,9 +486,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.3, y: 0.68000007, z: -9.3}
+    m_Target: {x: -1.4276742, y: 1.8822737, z: -6.9708705}
     speed: 2
-    m_Value: {x: 0.3, y: 0.68000007, z: -9.3}
+    m_Value: {x: -1.4276742, y: 1.8822737, z: -6.9708705}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -536,11 +536,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+    m_Value: {x: 0.7071067, y: 0, z: 0, w: 0.70710707}
   m_Size:
-    m_Target: 13.145218
+    m_Target: 2.7665336
     speed: 2
-    m_Value: 13.445218
+    m_Value: 2.4665337
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -639,7 +639,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 528
-    width: 1058
+    width: 1095
     height: 255
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -655,20 +655,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ADG_Textures/walls_vol1/wall02
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets/ADG_Textures/walls_vol1/wall02
+  - Assets
   m_LastFoldersGridSize: 71
-  m_LastProjectPath: C:\Users\olivi\Documents\Unity\Final Project
+  m_LastProjectPath: C:\Users\olivi\Documents\Unity\Final Project\Final-Project-Retrospection
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 89}
-    m_SelectedIDs: 623b0000
-    m_LastClickedID: 15202
-    m_ExpandedIDs: 0000000040390000743b0000763b000000ca9a3b
+    scrollPos: {x: 0, y: 57}
+    m_SelectedIDs: 2c3a0000
+    m_LastClickedID: 14892
+    m_ExpandedIDs: 000000002c3a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -696,7 +696,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004039000000ca9a3b
+    m_ExpandedIDs: 000000002c3a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -721,8 +721,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: da3a0000
+    m_LastClickedInstanceID: 15066
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
@@ -775,7 +775,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 528
-    width: 1059
+    width: 1095
     height: 255
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &20
@@ -799,9 +799,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1059.2001
+    x: 1096
     y: 73.6
-    width: 476
+    width: 439
     height: 710
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -815,7 +815,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 44
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -862,16 +862,20 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1058.4
+    x: 1096
     y: 73.6
-    width: 477
+    width: 439
     height: 710
   m_ViewDataDictionary: {fileID: 0}
-  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/build
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
   - https://public-cdn.cloud.unity3d.com/editor/production/cloud/build
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/collab
   m_RegisteredViewInstances:
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
 --- !u!114 &23
 MonoBehaviour:
@@ -893,19 +897,19 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1060.8
+    x: 1096
     y: 73.6
-    width: 474
+    width: 439
     height: 710
   m_ViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
-  currentTrackingStatusHasUpdate: 1
-  currentStatusEntriesHasUpdate: 1
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 1
   changeTab: 5
   activeTab: 5
   initProjectView:
@@ -14375,14 +14379,14 @@ MonoBehaviour:
       resetToBundled: 0
       resetToSystem: 0
       changingManually: 0
-    hasRemote: 0
+    hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2021-04-19T14:35:22.477-04:00
+      updatedTimeString: 2021-04-19T18:28:45.664-04:00
       cacheType: 1
     metricsEnabled: 1
-    newRepositoryRemoteUrl: 
+    newRepositoryRemoteUrl: https://github.com/onwsq/Final-Project-Retrospection.git
     repositoryRemoteName: origin
-    repositoryRemoteUrl: 
+    repositoryRemoteUrl: https://github.com/onwsq/Final-Project-Retrospection.git
     scroll: {x: 0, y: 0}
     userSettingsView:
       gitName: Olivia Weng
@@ -14391,7 +14395,7 @@ MonoBehaviour:
       newGitEmail: osw9@case.edu
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 2021-04-19T15:06:22.898-04:00
+        updatedTimeString: 2021-04-19T18:29:00.384-04:00
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -16496,30 +16500,30 @@ MonoBehaviour:
       m_Text: Release Lock (forced)
       m_Image: {fileID: 0}
       m_Tooltip: 
-  hasRemote: 0
-  currentRemoteName: 
-  currentBranch: master
-  currentRemoteUrl: No remote configured
+  hasRemote: 1
+  currentRemoteName: origin
+  currentBranch: main
+  currentRemoteUrl: https://github.com/onwsq/Final-Project-Retrospection.git
   statusAhead: 0
   statusBehind: 0
   hasItemsToCommit: 1
-  isTrackingRemoteBranch: 0
+  isTrackingRemoteBranch: 1
   currentBranchContent:
-    m_Text: master
+    m_Text: main
     m_Image: {fileID: 0}
     m_Tooltip: Active branch
   currentRemoteUrlContent:
-    m_Text: No remote configured
+    m_Text: https://github.com/onwsq/Final-Project-Retrospection.git
     m_Image: {fileID: 0}
-    m_Tooltip: Add a remote in the Settings tab
+    m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2021-04-19T14:35:22.477-04:00
+    updatedTimeString: 2021-04-19T18:03:48.969-04:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2021-04-19T14:41:38.600-04:00
+    updatedTimeString: 2021-04-19T18:04:33.315-04:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2021-04-19T14:41:38.399-04:00
+    updatedTimeString: 2021-04-19T18:04:33.244-04:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull

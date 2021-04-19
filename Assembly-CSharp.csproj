@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{f225bd4a-5374-141e-1c63-bce00338d1e5}</ProjectGuid>
+    <ProjectGuid>{6230a64d-5563-685d-58fd-a001e1c8c3b6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -38,8 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\FPSInput.cs" />
      <Compile Include="Assets\MouseLook.cs" />
-     <None Include="Assets\Procedural Stucco\Shaders\EGStucco.shader" />
-     <None Include="Assets\Ultra 4K Brick &amp; Wood Texture Pack [FREE]\Documentation\ReadMe.txt" />
+     <None Include="Assets\wood floor\Documentation\ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -569,43 +568,43 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

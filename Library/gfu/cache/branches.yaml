@@ -13,18 +13,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-19T14:35:23.057-04:00
-  initializedAtString: 2021-04-19T14:35:22.447-04:00
+  lastUpdatedAtString: 2021-04-19T18:03:52.726-04:00
+  initializedAtString: 2021-04-19T18:03:51.628-04:00
   localBranches: []
-  remoteBranches: []
-  remotes: []
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/onwsq/Final-Project-Retrospection.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
     keys: []
     values: []
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - main
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/onwsq/Final-Project-Retrospection.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/onwsq/Final-Project-Retrospection.git
+        trackingBranch: 
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/onwsq/Final-Project-Retrospection.git
