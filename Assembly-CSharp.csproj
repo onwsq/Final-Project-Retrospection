@@ -38,6 +38,12 @@
   <ItemGroup>
      <Compile Include="Assets\FPSInput.cs" />
      <Compile Include="Assets\MouseLook.cs" />
+     <Compile Include="Assets\Scripts\PickBehavior.cs" />
+     <Compile Include="Assets\Scripts\PinBehavior.cs" />
+     <Compile Include="Assets\Scripts\SceneController.cs" />
+     <Compile Include="Assets\Scripts\TensionBehavior.cs" />
+     <Compile Include="Assets\Scripts\TensionText.cs" />
+     <Compile Include="Assets\Scripts\WinText.cs" />
      <None Include="Assets\wood floor\Documentation\ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -573,15 +579,6 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ProBuilder">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -596,9 +593,6 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
         <HintPath>C:/Users/olivi/Documents/Unity/Final Project/Final-Project-Retrospection/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
