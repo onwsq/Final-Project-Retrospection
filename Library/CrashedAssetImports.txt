@@ -1,1 +1,2 @@
+Assets/wood floor/Textures/Albedo/WoodFloor_4_Albedo.png
 Assets/wood floor/Textures/Height/WoodFloor_4_Height.png
